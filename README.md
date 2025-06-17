@@ -14,7 +14,7 @@ It can be enhanced to meet larger needs and incorporate advanced technologies su
 Hope you like it!
 
 <div>
-  ![extensão ](https://github.com/user-attachments/assets/d7e63dff-640b-4ffd-98ef-d22b2f808b3c)
+  <img src="https://github.com/user-attachments/assets/d7e63dff-640b-4ffd-98ef-d22b2f808b3c" width="400"/>
 </div>
 
 
