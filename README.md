@@ -1,4 +1,3 @@
-![extensão ](https://github.com/user-attachments/assets/f8b7912f-6fb0-47de-bef1-c6502f04891e)﻿# Irrigacao-automatica
 
 Sistema de irrigação automática || Automatic irrigation system
 
@@ -14,7 +13,9 @@ It can be enhanced to meet larger needs and incorporate advanced technologies su
 
 Hope you like it!
 
-![extensão ](https://github.com/user-attachments/assets/d7e63dff-640b-4ffd-98ef-d22b2f808b3c)
+<div>
+  ![extensão ](https://github.com/user-attachments/assets/d7e63dff-640b-4ffd-98ef-d22b2f808b3c)
+</div>
 
 
 ## Simulation:
